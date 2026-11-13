@@ -13,4 +13,4 @@
 - GitHub Issues: https://github.com/YukiYotsu/Travelum/issues
 
 ## 利用規約・プライバシーポリシー
-- [利用規約およびプライバシーポリシー (Terms of Use & Privacy Policy)](./TERMS.md)
+[利用規約およびプライバシーポリシー (Terms of Use & Privacy Policy)](./TERMS.md)
